@@ -1,0 +1,42 @@
+{
+  "theme": "CYBER PANDA MD",
+  "AUTHOR": "SilvaTech",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+    "global": {
+      "botName": "CYBER PANDA MD",
+      "body": "WhatsApp Bot",
+      "greet": "Boss",
+      "greet2": "Hey Boss",
+      "pic1": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "pic2": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "pic3": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "pic4": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "pic5": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "pic6": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "pic7": "https://i.ibb.co/xqd5hcNw/Dark-E-sports-Illustrative-Panda-Face-Gaming-Logo.jpg",
+      "dotbody": "CYBER PANDA MD is online.",
+      "promote": "Admin role granted.",
+      "demote": "Admin role removed.",
+      "antlink": "Link detected. *Goodbye.*",
+      "mention": "Please mention a user.",
+      "title": "Silva-MD",
+      "footer": "CYBER PANDA MD Bot",
+      "by": "Made by: SilvaTech",
+      "success": "Done ✓",
+      "wait": "*Processing your request* ✅",
+      "admin": "⛔ This command is for group admins only.",
+      "botAdmin": "❗ Please give me admin role first.",
+      "owner": "⛔ This command is reserved for the bot owner.",
+      "group": "❗ This feature is for groups only.",
+      "private": "⚠️ This feature is for private chats only.",
+      "bot": "⚠️ This feature is for the bot number only.",
+      "alive": "System online. All functions nominal.",
+      "aliveEmoji": "⚡"
+    },
+    "error": {
+      "text": "⚠️ An error occurred. Please try again."
+    }
+  }
+}
