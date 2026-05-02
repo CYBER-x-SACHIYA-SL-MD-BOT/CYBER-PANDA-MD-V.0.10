@@ -1,6 +1,6 @@
 {
   "theme": "CYBER PANDA MD",
-  "AUTHOR": "SilvaTech",
+  "AUTHOR": "Sachithchandra",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -23,7 +23,7 @@
       "mention": "Please mention a user.",
       "title": "Silva-MD",
       "footer": "CYBER PANDA MD Bot",
-      "by": "Made by: SilvaTech",
+      "by": "Made by: Cyber x Sachiya",
       "success": "Done ✓",
       "wait": "*Processing your request* ✅",
       "admin": "⛔ This command is for group admins only.",
